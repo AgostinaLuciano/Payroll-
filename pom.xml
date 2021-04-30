@@ -12,7 +12,7 @@
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>payroll</name>
-	<description>Demo API REST/ Sprin Boot</description>
+	<description>Demo API REST/ Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
